@@ -32,6 +32,12 @@ flowchart LR
 
 Entry scripts are thin: they only ask for the task by its registered name. Robot, MDP functions and PPO settings each live in their own file.
 
+## The robot
+
+![Me with the ANYmal D at CROB](media/foto_yo_con_robot.jpg)
+
+*Me with the ANYmal D at the USP Center for Robotics (CROB).*
+
 ## Results
 
 - Linear-velocity tracking reward reached 0.90 (maximum 1.0) after 1500 iterations (training log).
